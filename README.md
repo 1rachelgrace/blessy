@@ -1,8 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Hello World</title>
+Hello!
 </head>
-</body>
 </html>
  
